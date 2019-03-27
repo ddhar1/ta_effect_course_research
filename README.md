@@ -4,7 +4,7 @@ I used this .R code to clean a dataset of undergraduate students at a top public
 
 Ultimate goal of the study was to see casual impact of TA demographics on student outcomes by exploiting fact that TAs and students both do not know who will be in class when they choose one. Analysis on the final dataset was performed in Stata. Results were presented at the Undergraduate Women in Economics conference in April 2017
 
-Datasets used to prepare the ultimate table are not in this repo for privacy reasons.
+data used to prepare the ultimate dataset are not in this repo for privacy reasons.
 
 ## Data
 * course.enroll is a 66270 x 13 dataframe from a  .csv is a student by class level dataset containing class information for every class a student took
